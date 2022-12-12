@@ -17,6 +17,7 @@ function vector3Projection(vector_A, vector_B)
 	local vectorB_len = math.sqrt(vector_B.X * vector_B.X + vector_B.Y * vector_B.Y + vector_B.Z * vector_B.Z)
 	if vectorB_len ~= 0 then
 		result = scalar / vectorB_len
+		return nil
 	end
 	return result
 end
