@@ -13,6 +13,7 @@ peano axioms
   # https://en.wikipedia.org/wiki/Peano_axioms
   # https://en.wikipedia.org/wiki/Metamathematics
 daemon in python
+virtual env
 gpu computing in python
 
 
