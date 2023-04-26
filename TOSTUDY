@@ -1,3 +1,8 @@
+TOP PRIORITY: 
+https://www.djangoproject.com/
+https://flask.palletsprojects.com/en/2.3.x/
+https://github.com/pyinstaller/pyinstaller
+
 Bileanear Interpolation
 Liniear Algebra (local and global variebals, translation matrix, rotation)
 Texture, Material, Shader difference
@@ -15,6 +20,23 @@ peano axioms
 daemon in python
 virtual env
 gpu computing in python
+hashing 
+
+STILL DON'T GET: 
+https://en.wikipedia.org/wiki/Web_Server_Gateway_Interface
+
+
+PYTHON LIBRARIES:
+https://documen.tician.de/pycuda/
+https://docs.python.org/2/library/ctypes.html
+https://cython.org/
+https://www.pypy.org/
+https://github.com/python-mode/python-mode
+https://github.com/nucleic/enaml
+https://docs.python.org/2/library/unittest.html
+https://matplotlib.org/
+https://scrapy.org/
+https://nuitka.net/doc/commercial.html
 
 
 \/ Multithreading indeepth PID? 
@@ -27,3 +49,7 @@ gpu computing in python
     -- there are 2 additional types of libraries: static and dynamic
     -- static are added to program at compile time (and they are present in executable)
     -- dynamic are added to program during runtime (smaller size executable, needs to be installed on other systems) 
+
+
+SOURCES: 
+-- https://github.com/seanzhou1023/awsome-python
