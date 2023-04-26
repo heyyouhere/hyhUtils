@@ -2,9 +2,27 @@ Bileanear Interpolation
 Liniear Algebra (local and global variebals, translation matrix, rotation)
 Texture, Material, Shader difference
 Compilers, Build, Interpreteer
---- Headers, Standart Libraies
 stderror (Streams are files?)
 GIST, gitlab? 
---- Multithreading indeepth, PID? 
 cpython, ironpython, ipython, jupiter ... and so on
 python as daemon 
+turing complete
+lambda calculus 
+  # https://en.wikipedia.org/wiki/Lambda_calculus
+peano axioms
+  # https://en.wikipedia.org/wiki/Peano_axioms
+  # https://en.wikipedia.org/wiki/Metamathematics
+daemon in python
+
+
+
+\/ Multithreading indeepth PID? 
+    -- subprocess - for processes outside python (bash, other scripts)
+    -- multiprocessing - true paralellizm, creates new process, no shared memory 
+    -- thread, - false paralellizm, single process jump from thread to thread
+\/ Headers, Standart Libraies
+    -- header can be just a declaration or header-only library with code
+    -- header-only library interpreted as part of main program code
+    -- there are 2 additional types of libraries: static and dynamic
+    -- static are added to program at compile time (and they are present in executable)
+    -- dynamic are added to program during runtime (smaller size executable, needs to be installed on other systems) 
