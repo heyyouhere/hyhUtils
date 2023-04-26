@@ -2,9 +2,9 @@ Bileanear Interpolation
 Liniear Algebra (local and global variebals, translation matrix, rotation)
 Texture, Material, Shader difference
 Compilers, Build, Interpreteer
-Headers, Standart Libraies
+--- Headers, Standart Libraies
 stderror (Streams are files?)
 GIST, gitlab? 
-Multithreading indeepth, PID? 
-ipython, jupiter ... and so on
+--- Multithreading indeepth, PID? 
+cpython, ironpython, ipython, jupiter ... and so on
 python as daemon 
