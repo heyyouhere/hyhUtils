@@ -3,9 +3,13 @@ Repo for stuff I regulary reuse. Some code, some links, some some...
 
 
 
-HTTP requests test endpoints: 
+## HTTP requests test endpoints: 
 https://httpbin.org/#/
 
+## Image uploader
+https://img.doerig.dev/
+
+## Fonts
 Figtree Font import from Google Fonts:
 
 
