@@ -8,6 +8,9 @@ https://httpbin.org/#/
 
 ## Image uploader
 https://img.doerig.dev/
+## SSL
+Go there, get a certificate for free.
+https://certbot.eff.org/instructions?ws=apache&os=debianbuster
 
 ## Fonts
 Figtree Font import from Google Fonts:
