@@ -12,9 +12,11 @@ https://img.doerig.dev/
 Go there, get a certificate for free.
 https://certbot.eff.org/instructions?ws=apache&os=debianbuster
 
+## Telegram bot with Flask-ish style
+https://pypi.org/project/telebot/
+
 ## Fonts
 Figtree Font import from Google Fonts:
-
 
 ```HTML
 <style>
