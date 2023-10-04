@@ -15,6 +15,9 @@ https://certbot.eff.org/instructions?ws=apache&os=debianbuster
 ## Telegram bot with Flask-ish style
 https://pypi.org/project/telebot/
 
+## (Дом потерянных игр)[https://vk.com/house_of_lost_games]
+![Image](/repository/Collection_of_lost_games_3_0.jpg?raw=true)
+
 ## Fonts
 Figtree Font import from Google Fonts:
 
